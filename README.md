@@ -6,7 +6,6 @@
 
 🌱 I’m currently learning Web Dev Technologies
 
-⚡ Fun fact: I like to explore new technologies
 
 # 🌐 Socials:
 
