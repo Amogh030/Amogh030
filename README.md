@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Amogh030
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Web dev and mern stack
