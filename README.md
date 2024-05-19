@@ -2,9 +2,7 @@
 
 👋 Hi, I’m Amogh
 
-👀 I’m interested in Programming
-
-🌱 I’m currently learning Web Dev Technologies
+👀 I’m currently working on Web dev
 
 
 # 🌐 Socials:
