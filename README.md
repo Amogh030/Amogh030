@@ -11,7 +11,7 @@
  
 # 🖥️ Tech Stack
 
-![Static Badge](https://img.shields.io/badge/C%20-content?style=for-the-badge&logo=C&color=blue) ![Static Badge](https://img.shields.io/badge/C%2B%2B-content?style=for-the-badge&logo=C%2B%2B&color=blue)  ![Static Badge](https://img.shields.io/badge/python-content?style=for-the-badge&logo=python&color=ffdd54)  ![Static Badge](https://img.shields.io/badge/MySQL-content?style=for-the-badge&logo=mysql&color=light%20pink%20)
+![Static Badge](https://img.shields.io/badge/C%20-content?style=for-the-badge&logo=C&color=blue) ![Static Badge](https://img.shields.io/badge/C%2B%2B-content?style=for-the-badge&logo=C%2B%2B&color=blue)  ![Static Badge](https://img.shields.io/badge/python-content?style=for-the-badge&logo=python&color=ffdd54)  ![Static Badge](https://img.shields.io/badge/MySQL-content?style=for-the-badge&logo=mysql&color=light%20pink%20) 
 
  
 # 📊 GitHub Stats:
