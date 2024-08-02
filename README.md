@@ -11,7 +11,8 @@
  
 # 🖥️ Tech Stack
 
-![Static Badge](https://img.shields.io/badge/C%20-content?style=for-the-badge&logo=C&color=blue) ![Static Badge](https://img.shields.io/badge/C%2B%2B-content?style=for-the-badge&logo=C%2B%2B&color=blue)  ![Static Badge](https://img.shields.io/badge/python-content?style=for-the-badge&logo=python&color=ffdd54)  ![Static Badge](https://img.shields.io/badge/MySQL-content?style=for-the-badge&logo=mysql&color=light%20pink%20) 
+![Static Badge](https://img.shields.io/badge/C%20-content?style=for-the-badge&logo=C&color=blue) ![Static Badge](https://img.shields.io/badge/C%2B%2B-content?style=for-the-badge&logo=C%2B%2B&color=blue)  ![Static Badge](https://img.shields.io/badge/python-content?style=for-the-badge&logo=python&color=ffdd54)  ![Static Badge](https://img.shields.io/badge/MySQL-content?style=for-the-badge&logo=mysql&color=light%20pink%20) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 
  
 # 📊 GitHub Stats:
